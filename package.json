@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/lumine-gl/lumine-scene",
   "dependencies": {
-    "lodash": "latest",
-    "lumine": "git://github.com/lumine-gl/lumine.git"
+    "lodash": "latest"
   }
 }
