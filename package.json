@@ -1,0 +1,26 @@
+{
+  "name": "lumine-scene",
+  "version": "0.0.0",
+  "description": "A blank Lumine Scene.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumine-gl/lumine-scene.git"
+  },
+  "keywords": [
+    "canvas",
+    "layout",
+    "render",
+    "virtual dom"
+  ],
+  "author": "Will Shown <will.shown@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumine-gl/lumine-scene/issues"
+  },
+  "homepage": "https://github.com/lumine-gl/lumine-scene",
+  "dependencies": {
+    "lodash": "latest",
+    "lumine": "git://github.com/lumine-gl/lumine.git"
+  }
+}
